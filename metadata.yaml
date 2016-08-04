@@ -1,0 +1,36 @@
+_repo: The-Monikins_4092
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Cooper, James Fenimore
+    aliases:
+    - Cooper, Fenimore
+    - Morgan, Jane
+    - Cooper, J. Fenimore (James Fenimore)
+    birthdate: 1789
+    deathdate: 1851
+    gutenberg_agent_id: '483'
+    url: http://www.gutenberg.org/2009/agents/483
+    wikipedia: http://en.wikipedia.org/wiki/James_Fenimore_Cooper
+description: In this inventive and comical novel and his first work of satire James
+  Fenimore Cooper skewers American and British politics. Here is the story of Sir
+  John Goldencalf, member of British society, and American Captain John Poke, as they
+  accompany four highly intelligent, and conversant, monkeys back to their homeland.
+gutenberg_issued: '2003-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4092'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Monkeys -- Fiction'
+- !lcsh 'American fiction -- 19th century'
+- !lcsh 'Satire'
+- !lcc 'PS'
+- !lcsh 'Human behavior -- Humor -- Fiction'
+- !lcsh 'Fantasy fiction'
+- GITenberg
+title: The Monikins
+url: http://www.gutenberg.org/ebooks/4092
