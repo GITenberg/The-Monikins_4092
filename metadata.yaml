@@ -1,5 +1,8 @@
 _repo: The-Monikins_4092
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Cooper, James Fenimore
@@ -16,6 +19,8 @@ description: In this inventive and comical novel and his first work of satire Ja
   Fenimore Cooper skewers American and British politics. Here is the story of Sir
   John Goldencalf, member of British society, and American Captain John Poke, as they
   accompany four highly intelligent, and conversant, monkeys back to their homeland.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/4092#The-Monikins
 gutenberg_issued: '2003-05-01'
 gutenberg_type: Text
 identifiers:
